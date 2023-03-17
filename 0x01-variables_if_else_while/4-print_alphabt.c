@@ -13,5 +13,5 @@ int main(void)
 		putchar(missingLetter[a]);
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }

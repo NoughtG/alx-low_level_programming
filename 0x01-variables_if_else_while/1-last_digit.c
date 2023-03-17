@@ -4,8 +4,8 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - 
- * Return:
+ * main - last_digit.c
+ * Return: 0
  */
 int main(void)
 {
